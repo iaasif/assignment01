@@ -139,3 +139,138 @@
 
     cursor: pointer;
 }
+
+.our-portfolio {
+    margin-top: 200px;
+    min-width: 1320px;
+    min-height: 600px;
+}
+
+.text-gifts {
+    text-align: left;
+    margin-left: 0;
+    padding-left: 0;
+
+}
+
+.text-gifts h3 {
+
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    margin-left: 0;
+    padding-left: 0;
+
+
+}
+
+.text-gifts h1 {
+
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+
+    margin-left: 0;
+    padding-left: 0;
+
+}
+
+.text-gifts p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+
+    margin-left: 0;
+    padding-left: 0;
+
+}
+
+.our-portfolio img {
+    border-radius: 16px;
+
+}
+
+.img {
+    margin-left: 0;
+    margin-right: 0;
+
+    padding-right: 0;
+    padding-left: 0;
+
+}
+
+
+.img-container {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+}
+
+
+
+.img-container div {
+    margin-left: 0;
+    margin-right: 0;
+
+    display: flex;
+    justify-content: space-between;
+    min-width: 1320px;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.img-container img {
+    margin-left: 0;
+    margin-right: 0;
+
+
+    width: 424px;
+    height: 450px;
+
+}
+
+
+.Newsletter {
+    text-align: center;
+    margin-top: 120px;
+    background-color: #FF00000D;
+
+    width: 1320px;
+    height: 616px;
+    flex-shrink: 0;
+    border-radius: 16px;
+}
+
+.Newsletter img {
+    margin-bottom: 40px;
+}
+
+.Newsletter h1 {
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+
+    font-weight: 900;
+    margin-bottom: 22px;
+
+}
+
+.Newsletter p {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
