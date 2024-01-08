@@ -6,9 +6,13 @@
 .header-banner {
     border-radius: 16px;
 
-    /* background-image: url('/resources/BannerImage.png'); */
+
     border-radius: 16px;
-    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('resources/BannerImage.png');
+    /* background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%); */
+
+
+    background-image: url('resources/BannerImage.png');
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
     background-repeat: no-repeat;
     min-width: 1320px;
     min-height: 600px;
@@ -238,15 +242,15 @@
     padding-right: 0;
 }
 
-.middle-img{
+.middle-img {
     border-color: #F00;
-    border-style:solid;
+    border-style: solid;
     width: 500px;
     height: 500px;
     border-radius: 50%;
-    padding-top: 70px ;
+    padding-top: 70px;
     padding-left: 40px;
-    
+
 }
 
 
